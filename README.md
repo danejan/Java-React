@@ -1,2 +1,2 @@
 # Java-React
-Bu depoda Java+React  projelerimi geliştireceğim
+Bu depoda Java+React  projelerimi geliştirmekteyim.
